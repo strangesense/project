@@ -1,2 +1,1 @@
-Hey
-some update
+Привет как дела
